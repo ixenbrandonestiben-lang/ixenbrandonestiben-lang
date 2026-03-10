@@ -1,7 +1,6 @@
 <h1 styke= text-align:center>👋 Hola, soy Estiben</h1>
 
-
-![descripcion de mi meta.](https://pixabay.com/es/photos/desarrollador-de-software-6521720/)
+![imagen](IMG_20260310_104741_1.jpg)
 
 ### 🚀 Desarrollador apasionado por la tecnología, la innovación y el diseño
 
