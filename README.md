@@ -1,5 +1,5 @@
+<h1 styke= text-align:center>👋 Hola, soy Estiben</h1>
 
-# 👋 Hola, soy Estiben
 
 ![descripcion de mi meta.](https://pixabay.com/es/photos/desarrollador-de-software-6521720/)
 
