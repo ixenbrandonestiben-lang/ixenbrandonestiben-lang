@@ -1,6 +1,6 @@
 <h1 styke= text-align:center>👋 Hola, soy Estiben</h1>
 
-![imagen](IMG_20260310_104741_1.jpg)
+<div align="center"><img src="img.jpg" width = 200 heigth = 250></div>
 
 ### 🚀 Desarrollador apasionado por la tecnología, la innovación y el diseño
 
