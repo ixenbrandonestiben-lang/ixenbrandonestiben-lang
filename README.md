@@ -1,8 +1,7 @@
 
 # 👋 Hola, soy Estiben
 
-![descripcion de mi meta.](<img width="809" height="534" alt="Captura desde 2026-03-10 09-04-01" src="https://github.com/user-attachments/assets/1ebe9821-731b-4a8c-8457-1fbca9a0f166" />
-)
+![descripcion de mi meta.](https://pixabay.com/es/photos/desarrollador-de-software-6521720/)
 
 ### 🚀 Desarrollador apasionado por la tecnología, la innovación y el diseño
 
