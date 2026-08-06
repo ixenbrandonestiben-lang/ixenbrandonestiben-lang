@@ -72,22 +72,22 @@
 <table>
   <tr>
     <td width="33%">
-      <h3>Inventario operativo</h3>
-      <p>Sistema para controlar productos, entradas, salidas y alertas de stock.</p>
-      <p><strong>Stack:</strong> Node.js, Express, MySQL II</p>
-      <a href="https://github.com/carlos-mendez-dev/inventario-operativo">Ver proyecto</a>
+      <h3>coneccion API</h3>
+      <p>Citio web donde podemos generar usuarios falsos para poder simular las diferentes formas de manipular los datos de una cuenta en diferentes campos, como por ejemplo: usarlo en un banco para llevar un control de las personas nuevas que se registren dia con dia, la API utilizada se basa en generar usuarios falsos.</p>
+      <p><strong>Stack:</strong> HTTML, CSS, Javascript</p>
+      <a href="https://github.com/ixenbrandonestiben-lang/Api">Ver proyecto</a>
     </td>
     <td width="33%">
-      <h3>API de tickets</h3>
-      <p>API REST para soporte interno con usuarios, prioridades y estados.</p>
-      <p><strong>Stack:</strong> Java, Spring Boot, MongoDB II</p>
-      <a href="https://github.com/carlos-mendez-dev/api-tickets">Ver proyecto</a>
+      <h3>Pagina para pedidos</h3>
+      <p>página web diseñada para **Arepas Tech**, un negocio de arepas artesanales a domicilio en Bogotá. La página tiene como objetivo principal proporcionar información sobre el menú.</p>
+      <p><strong>Stack:</strong> HTML, CSS, Javascript</p>
+      <a href="https://github.com/ixenbrandonestiben-lang/Aperas-Tech">Ver proyecto</a>
     </td>
     <td width="33%">
-      <h3>Dashboard academico</h3>
-      <p>Panel para visualizar avances, notas y entregas de estudiantes.</p>
+      <h3>Aparcamiento</h3>
+      <p>Campus Parking es una aplicación desarrollada con HTML, CSS y JavaScript que permite administrar vehículos, controlar espacios de parqueo, calcular costos automáticamente y mejorar la organización de los servicios dentro de un parqueadero.</p>
       <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
-      <a href="https://github.com/carlos-mendez-dev/dashboard-academico">Ver proyecto</a>
+      <a href="https://github.com/ixenbrandonestiben-lang/Campus-parker">Ver proyecto</a>
     </td>
   </tr>
 </table>
@@ -97,12 +97,13 @@
 ## Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlos-mendez-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=carlos-mendez-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ixenbrandonestiben-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ixenbrandonestiben-lang&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos-mendez-dev&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ixenbrandonestiben-lang&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
 </div>
 
 ---
@@ -110,14 +111,14 @@
 ## Contacto
 
 <div align="center">
-  <a href="https://linkedin.com/in/carlos-mendez-dev">
+  <a href="https://www.linkedin.com/in/brandon-estiben-ix%C3%A9n-86ba2b388/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:carlos.mendez@email.com">
+  <a href="mailto:ixenbrandonestiben@gmail.com">
     <img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
-  <a href="https://github.com/carlos-mendez-dev">
-    <img src="https://img.shields.io/badge/GitHub-carlos--mendez--dev-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/ixenbrandonestiben-lang">
+    <img src="https://img.shields.io/badge/GitHub-Estiben--Ixén--dev-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
