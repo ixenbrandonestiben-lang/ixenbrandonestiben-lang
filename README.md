@@ -1,82 +1,126 @@
-<h1 styke= text-align:center>👋 Hola, soy Estiben</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="Estiben Ixén, desarrollador fullstack junior" width="100%" />
+</div>
 
-<div align="center"><img src="img.jpg" width = 200 heigth = 250></div>
+<br />
 
-### 🚀 Desarrollador apasionado por la tecnología, la innovación y el diseño
+<div align="center">
+  <a href="https://carlosmendez.dev">
+    <img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://github.com/carlos-mendez-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=carlos-mendez-dev&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
+</div>
 
-Bienvenido a mi repositorio.
-Aquí encontrarás proyectos enfocados en **software, creatividad tecnológica e innovación dessarrrollados con el fin de aplicar mis conocimientos para poder buscarles soluciones a distintos problemas que se nos precentan en nueatra vida codidiana**.
+<h1 align="center">Hola, soy Estiben Ixén.</h1>
 
----
+<p align="center">
+  <strong>Full Stack Developer Junior | Campuslands Stack</strong>
+  <br />
+  Desarrollo paginas web teniendo un enfoque en orden, documentacion y resolucion de problemas reales.
 
-# 🧠 Sobre mí
+  Desarrollador con manos de taller. Vengo de la mecánica automotriz y de motos, del enderezado y la pintura, y lo aplico todo a la programación: diagnóstico, precisión y acabado impecable en cada interfaz.
+</p>
 
-Soy un desarrollador interesado en crear soluciones tecnológicas que combinen:
-
-* 💻 Desarrollo de software
-* ⚙️ Ingeniería y lógica
-* 🚗 Tecnología y diseño automotriz
-* 🚀 Innovación tecnológica
-
-Disfruto construir proyectos que **resuelvan problemas reales y aporten valor**.
-
----
-
-# 🛠️ Tecnologías y herramientas
-
-Lenguajes y herramientas con las que trabajo:
-
-* Python
-* Visual Studio Code
-* Git / GitHub
-* Linux
-
----
-
-# 🚀 Proyectos
-
-Aquí algunos de los proyectos que encontrarás en mis repositorios:
-
-### 🔹 Proyecto 1
-
-Aplicacion de consola para poder gestionar un inventario.
-
-### 🔹 Proyecto 2
-
-proyectos con aplicacion de git hub ramas y distintas funciones.
-
-### 🔹 y distintos proyectos que estan pendientes por crear
-
-Nunca olvides que un problema tiene varias soluciones. Asi que no tengas miendo en intentar.
+<div align="center">
+  <a href="https://github.com/estiben-ixen-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=Frontend+con+HTML+CSS+y+JavaScript;MySQL;GitHub+Flow+y+proyectos+documentados" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-# 🎯 Filosofía de desarrollo
+## Que hago
 
-Creo que el buen software debe ser:
-
-* Simple
-* Escalable
-* Innovador
-* Elegante
-* Creativo
-* Atractivo
-
-
-Mi enfoque es **aprender constantemente y construir soluciones cada vez mejores**.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Desarrollo web</h3>
+      <p>Construyo interfaces claras y funcionales, brindando una experiencia unica al usuario.</p>
+    </td>
+    <td width="50%">
+      <h3>Proyectos y soluciones</h3>
+      <p>Transformo requerimientos en proyectos organizados, documentados y faciles de revisar.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Trabajo tecnico</h3>
+      <p>Uso ramas, commits descriptivos y estructura de carpetas para trabajar de forma colaborativa.</p>
+    </td>
+    <td width="50%">
+      <h3>Aprendizaje continuo</h3>
+      <p>Fortalezco mis bases en arquitectura frontend, pruebas y despliegues.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📫 Contacto
+## Stack principal
 
-Si quieres colaborar o conocer más sobre mi trabajo:
-
-* GitHub: https://github.com/ixenbrandonestiben-lang/ixenbrandonestiben-lang
-* Email: [ixenbrandonestiben@gmail.com]()
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,html,css,js,mysql,git,vscode&perline=10" alt="Tech stack" />
+</div>
 
 ---
 
-# ⭐ Gracias por visitar mi repositorio.
+## Proyectos destacados
 
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Inventario operativo</h3>
+      <p>Sistema para controlar productos, entradas, salidas y alertas de stock.</p>
+      <p><strong>Stack:</strong> Node.js, Express, MySQL II</p>
+      <a href="https://github.com/carlos-mendez-dev/inventario-operativo">Ver proyecto</a>
+    </td>
+    <td width="33%">
+      <h3>API de tickets</h3>
+      <p>API REST para soporte interno con usuarios, prioridades y estados.</p>
+      <p><strong>Stack:</strong> Java, Spring Boot, MongoDB II</p>
+      <a href="https://github.com/carlos-mendez-dev/api-tickets">Ver proyecto</a>
+    </td>
+    <td width="33%">
+      <h3>Dashboard academico</h3>
+      <p>Panel para visualizar avances, notas y entregas de estudiantes.</p>
+      <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
+      <a href="https://github.com/carlos-mendez-dev/dashboard-academico">Ver proyecto</a>
+    </td>
+  </tr>
+</table>
 
+---
 
+## Actividad en GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlos-mendez-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=carlos-mendez-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos-mendez-dev&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+</div>
+
+---
+
+## Contacto
+
+<div align="center">
+  <a href="https://linkedin.com/in/carlos-mendez-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:carlos.mendez@email.com">
+    <img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+  <a href="https://github.com/carlos-mendez-dev">
+    <img src="https://img.shields.io/badge/GitHub-carlos--mendez--dev-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+**Perfil actualizado:** Julio 2026
