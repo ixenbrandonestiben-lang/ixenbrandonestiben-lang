@@ -121,11 +121,7 @@
   />
 ----
 ----
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=ixenbrandonestiben-lang&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ixenbrandonestiben-lang&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 
 </div>
 
