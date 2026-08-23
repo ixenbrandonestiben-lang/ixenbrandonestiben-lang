@@ -96,17 +96,15 @@
 
 
 ## Actividad en GitHub
-<!-- ======================================== -->
-<!--          ACTIVIDAD EN GITHUB             -->
-<!-- ======================================== -->
+-----
 
 <h2 align="center">📊 Actividad en GitHub</h2>
 
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username={{ixenbrandonestiben-lang}}&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user={{ixenbrandonestiben-lang}}&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ixenbrandonestiben-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ixenbrandonestiben-lang&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </div>
+
 ----
 ----
 <img
